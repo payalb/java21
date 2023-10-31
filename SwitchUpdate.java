@@ -42,3 +42,6 @@ public class Main {
 
     }
 }
+
+//colon replaced with -> , no need of break, multiple case statemnets clubbed with comma ( case 3, 4, 5 ). default should be included. 
+// in code block, should use yield instead of return 
